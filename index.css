@@ -68,8 +68,8 @@
     font-weight: 500;
 }
 .info-pic{
-    height: 460px;
-    width: 460px;
+    height: 400px;
+    width: 420px;
     border-radius: 180px;
     margin-bottom: 10px;
 
@@ -77,8 +77,10 @@
 .text-center{
     text-align: center;
 }
+.mar2{
+    margin-left: 10%;
 .mar{
-    margin-left: 150px;
+    margin-left: 30%;
     margin-top: 10px;
 }
 .hire-but{
