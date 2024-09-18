@@ -4,4 +4,4 @@ Languages used in this project:
 1) Javascript
 2) HTML
 3) CSS
-        Thank you.
+ Thank you.
