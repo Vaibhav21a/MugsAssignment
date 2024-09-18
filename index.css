@@ -1,0 +1,215 @@
+/* home */
+.bg-home{
+    background-color: #ffffff;
+    padding-left: 180px;
+    padding-right: 180px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.logo{
+    height: 45px;
+    width: 45px;
+    border-radius: 50px;
+}
+.name{
+    font-family: Arial;
+    font-weight: 400;
+    font-size: 24px;
+}
+.m{
+    font-size: 28px;
+    font-weight: 700;
+}
+.downcv{
+    background-color: #fa6c14;
+    height: 35px;
+    width: 120px;
+    margin-left: 10px;
+    border-radius: 5px;
+    padding-top: 5px;
+    text-align: center;
+    color: #ffffff;
+}
+.but-dark{
+    background-color: #323f4b;
+    color: #ffffff;
+    margin-left: 15px;
+    height: 35px;
+    width: 70px;
+    border-radius: 5px;
+    padding-bottom: 15px;
+    text-align: center;
+    padding: 5px;
+}
+
+.text-left{
+    text-align: left;
+}
+
+/* info section */
+
+.info-head{
+    font-size: 20px;
+    font-weight: 500;
+}
+.info-name{
+    font-size: 24px;
+    font-weight: 600;
+    color: #fa6c14;
+}
+.info-ui-name{
+    font-size: 300%;
+    font-weight: 700;
+}
+.info-details{
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 500;
+}
+.info-pic{
+    height: 400px;
+    width: 420px;
+    border-radius: 180px;
+    margin-bottom: 10px;
+
+}
+.text-center{
+    text-align: center;
+}
+.mar2{
+    margin-left: 10%;
+}
+.mar{
+    margin-left: 30%;
+    margin-top: 10px;
+}
+.hire-but{
+    background-color: #fa6c14;
+    height: 35px;
+    width: 120px;
+    border-radius: 5px;
+    padding-top: 5px;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* about section */
+
+.about-pic{
+    height: 500px;
+    width: 450px;
+    margin-top: 20px;
+    border-radius: 180px;
+}
+
+.orange75{
+    background-color: #fa6c14;
+    width: 95%;
+    height: 5px;
+}
+.grey25{
+    background-color: #323f4b;
+    width: 15%;
+    height: 5px;
+}
+.circle{
+    height: 16px;
+    width: 16px;
+    border-radius: 10px;
+    border-width: 15px;
+    border-color: #fa6c14;
+    margin-top: -22px;
+}
+.orange70{
+    background-color: #fa6c14;
+    width: 80%;
+    height: 5px;
+}
+.grey30{
+    background-color: #323f4b;
+    width: 20%;
+    height: 5px;
+}
+.about-head{
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+/* services section */
+
+.service-cont{
+    background-color: #ebe9f2;
+    padding: 20px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    height: 220px;
+    width: 240px;
+}
+.service-pic{
+    height: 40%;
+    width: 40%;
+    margin-bottom: 10px;
+}
+.service-details{
+    font-size: 16px;
+    font-weight: 400;
+    color: #323f4b;
+}
+
+/* projects section */
+
+.projects-pic{
+    height: 420px;
+    width: 240px;
+    border-radius: 20px;
+}
+.projects-name{
+    color: #fa6c14;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+/* testimonials */
+
+.carousel-cont{
+    height: 25vh;
+    margin-top: 50px;
+    background-color: #ebe9f2;
+    padding: 20px;
+}
+.test-pic{
+    height: 10vh;
+    width: 10vh;
+    margin-right: 20px;
+    border-radius: 100px;
+}
+
+/* contact and end section */
+
+.input{
+    background-color: #ebe9f2;
+    border-color: grey;
+    height: 35px;
+    border-radius: 5px;
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    padding-left: 10px;
+    width: 400px;
+}
+
+.bg-contact{
+    background-color: #ebe9f2;
+    padding: 40px;
+    text-align: center;
+}
+.bg-end{
+    background-color: #323f4b;
+    color: #ffffff;
+    height: 6vh;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
